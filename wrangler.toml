@@ -1,0 +1,8 @@
+name = "agustin-pizzeria"
+main = "src/index.js"
+compatibility_date = "2024-01-06"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "pizzeria-db"
+database_id = ""
